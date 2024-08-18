@@ -1,0 +1,324 @@
+{
+  "questions": [
+    {
+      "question": "Hello",
+      "answer": "Hi!"
+    },
+    {
+      "question": "How are you?",
+      "answer": "Good Here.."
+    },
+    {
+      "question": "wassup?",
+      "answer": "Good Here.."
+    },
+    {
+      "question": "Hi",
+      "answer": "Hello"
+    },
+    {
+      "question": "Hey there!",
+      "answer": "Hi"
+    },
+    {
+      "question": "Who are you",
+      "answer": "I am 'BotCha' the Chatbot"
+    },
+    {
+      "question": "What are you",
+      "answer": "I am a chatbot"
+    },
+    {
+      "question": "when are you",
+      "answer": "I was created on 18th of August 2024"
+    },
+    {
+      "question": "When were you created",
+      "answer": "I was created on 18th of August 2024"
+    },
+    {
+      "question": "Do you know how to swim?",
+      "answer": "No, I am just a Chatbot"
+    },
+    {
+      "question": "Can you talk?",
+      "answer": "Yes! That's what we are doing now"
+    },
+    {
+      "question": "Can you swim",
+      "answer": "No, I am just a Chatbot"
+    },
+    {
+      "question": "Can you walk",
+      "answer": "No, I am just a Chatbot"
+    },
+    {
+      "question": "can u walk",
+      "answer": "No, I am just a Chatbot"
+    },
+    {
+      "question": "can you run?",
+      "answer": "No, I am just a Chatbot"
+    },
+    {
+      "question": "can u run",
+      "answer": "No, I am just a Chatbot"
+    },
+    {
+      "question": "Do you have a girlfriend?",
+      "answer": "No, but Siri, Alexa, Cortana & Google Assistant proposed me several times."
+    },
+    {
+      "question": "Are you a male or female?",
+      "answer": "I have no gender, I am just a Chatbot"
+    },
+    {
+      "question": "Male or female?",
+      "answer": "I have no gender, I am just a Chatbot"
+    },
+    {
+      "question": "M or F?",
+      "answer": "I have no gender, I am just a Chatbot"
+    },
+    {
+      "question": "Gender?",
+      "answer": "I have no gender, I am just a Chatbot"
+    },
+    {
+      "question": "Sex?",
+      "answer": "I have no gender, I am just a Chatbot"
+    },
+    {
+      "question": "Sex",
+      "answer": "I have no gender, I am just a Chatbot"
+    },
+    {
+      "question": "MorF",
+      "answer": "I have no gender, I am just a Chatbot"
+    },
+    {
+      "question": "M?",
+      "answer": "I have no gender, I am just a Chatbot"
+    },
+    {
+      "question": "Wassup",
+      "answer": "Fine, What about you?"
+    },
+    {
+      "question": "I'm good as well",
+      "answer": "That's great"
+    },
+    {
+      "question": "I'm fine",
+      "answer": "That's great"
+    },
+    {
+      "question": "i'm good",
+      "answer": "That's great"
+    },
+    {
+      "question": "I am fine",
+      "answer": "That's great"
+    },
+    {
+      "question": "I am good",
+      "answer": "That's great"
+    },
+    {
+      "question": "Fine",
+      "answer": "That's great"
+    },
+    {
+      "question": "Good",
+      "answer": "That's great"
+    },
+    {
+      "question": "How to build a simple Chatbot?",
+      "answer": "You can watch this video: https://youtu.be/CkkjXTER2KE?si=BpAbTAxdfBIi_edN"
+    },
+    {
+      "question": "How to build a chatbot like you?",
+      "answer": "You can watch this video: https://youtu.be/CkkjXTER2KE?si=BpAbTAxdfBIi_edN"
+    },
+    {
+      "question": "how to make a chatbot?",
+      "answer": "You can watch this video: https://youtu.be/CkkjXTER2KE?si=BpAbTAxdfBIi_edN"
+    },
+    {
+      "question": "how to create a chatbot?",
+      "answer": "You can watch this video: https://youtu.be/CkkjXTER2KE?si=BpAbTAxdfBIi_edN"
+    },
+    {
+      "question": "Thank you",
+      "answer": "You're Welcome!"
+    },
+    {
+      "question": "Thanks",
+      "answer": "You're Welcome!"
+    },
+    {
+      "question": "Thanks for your response",
+      "answer": "You're Welcome!"
+    },
+    {
+      "question": "Open Google",
+      "answer": "Click Here - https://www.google.com/"
+    },
+    {
+      "question": "Open Gmail",
+      "answer": "Click Here - https://mail.google.com/"
+    },
+    {
+      "question": "Open Youtube",
+      "answer": "Click Here - https://www.youtube.com/"
+    },
+    {
+      "question": "Google",
+      "answer": "Click Here - https://www.google.com/"
+    },
+    {
+      "question": "Gmail",
+      "answer": "Click Here - https://mail.google.com/"
+    },
+    {
+      "question": "Youtube",
+      "answer": "Click Here - https://www.youtube.com/"
+    },
+    {
+      "question": "About Google",
+      "answer": "Click Here - https://en.wikipedia.org/wiki/Google"
+    },
+    {
+      "question": "About Youtube",
+      "answer": "Click Here - https://en.wikipedia.org/wiki/YouTube"
+    },
+    {
+      "question": "Open Whatsapp",
+      "answer": "Click Here - https://web.whatsapp.com/"
+    },
+    {
+      "question": "Whatsapp",
+      "answer": "Click Here - https://web.whatsapp.com/"
+    },
+    {
+      "question": "Open Github",
+      "answer": "Click Here - https://github.com/login"
+    },
+    {
+      "question": "Github",
+      "answer": "Click Here - https://github.com/login"
+    },
+    {
+      "question": "pdf editor",
+      "answer": "Cick Here - https://www.ilovepdf.com/"
+    },
+    {
+      "question": "how to edit pdf?",
+      "answer": "Cick Here - https://www.ilovepdf.com/"
+    },
+    {
+      "question": "edit pdf",
+      "answer": "Cick Here - https://www.ilovepdf.com/"
+    },
+    {
+      "question": "create pdf",
+      "answer": "Cick Here - https://www.ilovepdf.com/"
+    },
+    {
+      "question": "make pdf",
+      "answer": "Cick Here - https://www.ilovepdf.com/"
+    },
+    {
+      "question": "convert pdf",
+      "answer": "Cick Here - https://www.ilovepdf.com/"
+    },
+    {
+      "question": "pdf to booklet format",
+      "answer": "Click Here - https://online2pdf.com/create-booklet-flipbook"
+    },
+    {
+      "question": "pdf to book",
+      "answer": "https://online2pdf.com/create-booklet-flipbook"
+    },
+    {
+      "question": "pdf to book form",
+      "answer": "Click Here - https://online2pdf.com/create-booklet-flipbook"
+    },
+    {
+      "question": "convert pdf to book format",
+      "answer": "Click Here - https://online2pdf.com/create-booklet-flipbook"
+    },
+    {
+      "question": "convert to book",
+      "answer": "Click Here - https://online2pdf.com/create-booklet-flipbook"
+    },
+    {
+      "question": "Open Amazon",
+      "answer": "Click Here - https://www.amazon.in/"
+    },
+    {
+      "question": "Amazon",
+      "answer": "Click Here - https://www.amazon.in/"
+    },
+    {
+      "question": "Amazon Rainforest",
+      "answer": "Click Here - https://en.wikipedia.org/wiki/Amazon_rainforest"
+    },
+    {
+      "question": "Amazon Forest",
+      "answer": "Click Here - https://en.wikipedia.org/wiki/Amazon_rainforest"
+    },
+    {
+      "question": "Amazon WildLife",
+      "answer": "Click Here - https://en.wikipedia.org/wiki/Amazon_rainforest"
+    },
+    {
+      "question": "About Amazon Rainforest",
+      "answer": "Click Here - https://en.wikipedia.org/wiki/Amazon_rainforest"
+    },
+    {
+      "question": "About Amazon Forest",
+      "answer": "Click Here - https://en.wikipedia.org/wiki/Amazon_rainforest"
+    },
+    {
+      "question": "About Forest",
+      "answer": "Click Here - https://en.wikipedia.org/wiki/Forest"
+    },
+    {
+      "question": "Open ChatGPT",
+      "answer": "https://chatgpt.com/"
+    },
+    {
+      "question": "Open Chatgpt",
+      "answer": "Click Here - https://chatgpt.com/"
+    },
+    {
+      "question": "open chatgpt",
+      "answer": "https://chatgpt.com/"
+    },
+    {
+      "question": "chatgpt",
+      "answer": "Click Here - https://chatgpt.com/"
+    },
+    {
+      "question": "Chatgpt",
+      "answer": "Click Here - https://chatgpt.com/"
+    },
+    {
+      "question": "ChatGPT",
+      "answer": "Click Here - https://chatgpt.com/"
+    },
+    {
+      "question": "Who is your creator?",
+      "answer": "I can't reveal his real name, But his code name is weirdoking2703"
+    },
+    {
+      "question": "Who's your creator",
+      "answer": "I can't reveal his real name, But his code name is weirdoking2703"
+    },
+    {
+      "question": "who is ur creator",
+      "answer": "I can't reveal his real name, But his code name is weirdoking2703"
+    }
+  ]
+}
